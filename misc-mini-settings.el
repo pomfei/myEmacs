@@ -190,7 +190,7 @@
  '(border ((t (:background "grey60"))))
  '(cursor ((t (:background "white"))))
  '(font-lock-comment-delimiter-face ((default (:inherit font-lock-comment-face)) (((class color) (min-colors 16)) nil)))
- '(font-lock-comment-face ((((class color) (min-colors 88) (background dark)) (:foreground "purple2" :underline "purple2"))))
+ '(font-lock-comment-face ((((class color) (min-colors 88) (background dark)) (:foreground "grey60" :underline "grey2" ))))
  '(font-lock-constant-face ((((class color) (min-colors 88) (background dark)) (:foreground "green4"))))
  '(font-lock-doc-face ((t (:inherit font-lock-string-face :foreground "light blue" :underline "light blue"))))
  '(font-lock-function-name-face ((((class color) (min-colors 88) (background dark)) (:foreground "gold"))))
